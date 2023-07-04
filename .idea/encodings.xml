@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/scalable-executor-auto-isolated/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scalable-executor-auto-isolated/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scalable-executor-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scalable-executor-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scalable-executor-monitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scalable-executor-monitor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scalable-executor-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scalable-executor-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scalable-executor-spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scalable-executor-spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scalable-executor-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scalable-executor-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
